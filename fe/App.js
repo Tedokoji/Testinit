@@ -9,7 +9,7 @@ function App(){
     return(
         <div>
             <h1>
-                Hello world
+                Hello world!
             </h1>
         </div>
     )
