@@ -23,5 +23,5 @@ app.use('^/$', (req, res, next) => {
 
 
 app.listen(PORT, ()=>{
-console.log('fucking shit');
+console.log(`It's worked dude, listening at ${PORT}`);
 })
